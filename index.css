@@ -1,7 +1,10 @@
 body {
   background-color: #000
 }
-
+@font-face {
+  font-family: "myFont";
+  src: url("Simplex.ttf");
+}
 #console {
   font-family: courier, monospace;
   color: #fff;
