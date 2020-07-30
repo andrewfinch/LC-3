@@ -2,11 +2,11 @@ body {
   background-color: #000
 }
 @font-face {
-  font-family: "myFont";
+  font-family: "simplex";
   src: url("Simplex.ttf");
 }
 #console {
-  font-family: courier, monospace;
+  font-family: simplex;
   color: #fff;
   width:750px;
   margin-left:auto;
