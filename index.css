@@ -6,27 +6,24 @@ body {
 @-webkit-keyframes glow {
   from {
     text-shadow:    
-    0px 0px 2px rgb(176, 247, 255),
+    0px 0px 1px rgb(176, 247, 255),
     0px 0px 2px rgb(176, 247, 255),
     0px 0px 4px rgb(176, 247, 255),
     0px 0px 8px rgb(176, 247, 255), 
     0px 0px 16px rgb(176, 247, 255),
     0px 0px 32px rgb(176, 247, 255),
     0px 0px 64px rgb(176, 247, 255),
-    0px 0px 158px rgb(176, 247, 255),
-    0px 0px 236px rgb(176, 247, 255);
+    0px 0px 100px rgb(176, 247, 255);
   }
   to {
     text-shadow:    
     0px 0px 1px rgb(176, 247, 255),
     0px 0px 2px rgb(176, 247, 255),
-    0px 0px 2px rgb(176, 247, 255),
-    0px 0px 4px rgb(176, 247, 255), 
-    0px 0px 8px rgb(176, 247, 255),
-    0px 0px 16px rgb(176, 247, 255),
-    0px 0px 32px rgb(176, 247, 255),
-    0px 0px 64px rgb(176, 247, 255),
-    0px 0px 128px rgb(176, 247, 255);
+    0px 0px 3px rgb(176, 247, 255),
+    0px 0px 7px rgb(176, 247, 255), 
+    0px 0px 12px rgb(176, 247, 255),
+    0px 0px 22px rgb(176, 247, 255),
+    0px 0px 64px rgb(176, 247, 255);
   }
 }
 @font-face {
