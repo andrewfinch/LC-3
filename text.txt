@@ -1,1 +1,4 @@
-WELCOME TO ZENITH
+LC-3
+Welcome to Zenith
+
+Enter Credentials:
